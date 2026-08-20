@@ -85,3 +85,12 @@ flowchart TD
     J --> K[Feedback Loop]
 
     K --> C
+
+---
+
+## 🔗 Related Systems
+
+This revenue system is part of a unified AI architecture connecting Trust & Safety and Sales.
+
+👉 See full case study:  
+https://github.com/vickybansal99-tech/ai-revenue-case-study
