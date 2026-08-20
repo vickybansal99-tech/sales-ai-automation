@@ -1,6 +1,6 @@
 # 💰 Sales & Revenue AI Automation System
 
-**AI-driven revenue system enabling $17M+ annual impact through lead generation, scoring, and intelligent routing**
+**Production-grade AI system that transformed sales operations into a scalable, decision-driven revenue engine — enabling $17M+ annual impact**
 
 ---
 
@@ -14,36 +14,37 @@ Specific tools, data, and workflows are generalized due to confidentiality.
 ## ⚡ Impact
 
 - Built **$17M+ annual revenue engine**
-  - $15M+ PPL pipeline
-  - $2M+ PPC revenue
-- Reduced Cost Per Lead (CPL) by **25%**
-- Onboarded **2,500+ vendors/month**
-- Expanded territory coverage by **10–15%**
-- Enabled scalable revenue growth without linear team expansion  
+  - $15M+ PPL pipeline  
+  - $2M+ PPC revenue  
+- Reduced Cost Per Lead (CPL) by **25%**  
+- Onboarded **2,500+ vendors/month**  
+- Expanded territory coverage by **10–15%**  
+- Enabled non-linear revenue scaling without proportional team growth  
 
 ---
 
 ## 🚀 Why This Matters
 
 Traditional sales operations:
-- Depend on manual lead qualification  
-- Prioritize volume over quality  
-- Create inefficiencies in sales teams  
+- Depend heavily on manual lead qualification  
+- Focus on lead volume over quality  
+- Create inefficiencies for sales teams  
 
 This system transforms sales into a **data-driven, AI-powered decision engine** by:
 
 - Prioritizing high-intent leads  
 - Automating qualification and routing  
+- Improving conversion efficiency  
 - Enabling scalable revenue growth  
 
 ---
 
 ## 🧭 Problem
 
-- Large volumes of unqualified leads  
-- Poor targeting and segmentation  
-- High manual effort in lead qualification  
-- Low conversion efficiency  
+- High volumes of unqualified leads  
+- Inefficient targeting and segmentation  
+- Manual lead qualification bottlenecks  
+- Low conversion rates  
 - Fragmented sales and enablement workflows  
 
 ---
@@ -52,7 +53,7 @@ This system transforms sales into a **data-driven, AI-powered decision engine** 
 
 Designed an **AI-driven revenue system** combining:
 
-- Lead enrichment (firmographic + behavioral data)  
+- Lead enrichment (firmographic + behavioral signals)  
 - Segmentation and targeting models  
 - Lead scoring algorithms  
 - Intelligent routing and prioritization  
