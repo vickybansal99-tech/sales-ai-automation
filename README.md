@@ -8,7 +8,7 @@
 
 ## 🧭 Overview
 
-Gartner Digital Markets' India prospecting operation started as a self-funded experiment: four interns manually qualifying leads for the software review platform's catalogue. I architected and led the AI-driven revenue system that scaled that experiment into a dedicated team generating **USD 15M+ in annual PPL revenue** and **USD 2M+ in PPC revenue** — without proportional headcount growth.
+Gartner Digital Markets' India prospecting operation needed a fundamentally different approach to scale. I architected and led the AI-driven revenue system that built this into a dedicated team generating **USD 15M+ in annual PPL revenue** and **USD 2M+ in PPC revenue** — without proportional headcount growth.
 
 The system's core insight: stop optimising for lead volume. Optimise for **revenue per lead** by combining firmographic enrichment, behavioral signals, and intelligent routing to get high-intent leads to the right sales rep at the right time.
 
@@ -76,7 +76,7 @@ flowchart TD
 
 ## 🙋 My Role
 
-I conceived, architected, and led the build of this system — from the original 4-intern pilot to the full production revenue engine. I defined the lead scoring logic, the segmentation approach, and the routing criteria, and partnered with engineering to ship it into production.
+I conceived, architected, and led the build of this system end-to-end. I defined the lead scoring logic, the segmentation approach, and the routing criteria, and partnered with engineering to ship it into production.
 
 ---
 
