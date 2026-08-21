@@ -50,6 +50,10 @@ Designed an **AI-driven revenue system** combining:
 
 ---
 
+## Visual overview
+
+![Sales AI architecture overview](architecture.svg)
+
 ## 🏗️ System Architecture
 
 ```mermaid
