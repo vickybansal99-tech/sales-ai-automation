@@ -54,6 +54,12 @@ Designed an **AI-driven revenue system** combining:
 
 ![Sales AI architecture overview](architecture.svg)
 
+## Illustrative dashboard concept
+
+![Illustrative Sales AI lead-scoring dashboard — conceptual mockup, not the production interface](dashboard-concept.png)
+
+*Conceptual mockup illustrating how leads are scored and routed — not a capture of the actual production interface.*
+
 ## 🏗️ System Architecture
 
 ```mermaid
